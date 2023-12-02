@@ -1,3 +1,6 @@
 def test():
     pass
-    #some new text
+
+#some new text
+def test2():
+    pass
